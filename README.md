@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Relational Database & SQL Analytics Pipeline
 
+### 🌐 [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sumanth.sumanth4935/viz/OlistE-CommerceAnalytics_/Dashboard1)
+
 An end-to-end data analytics project utilizing **PostgreSQL** to model, ingest, and query over 100,000 real-world e-commerce transactions. This project investigates customer ordering behavior, logistical delivery performance, and month-over-month revenue growth to extract actionable business intelligence.
 
 ---
